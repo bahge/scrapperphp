@@ -1,0 +1,7 @@
+{
+  "require": {
+      "react/event-loop": "^0.5",
+      "clue/buzz-react": "^2.2",
+      "react/filesystem": "^0.1.1"
+  }
+}
